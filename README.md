@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @AttackOnCoding  
+- 👀 I’m interested in competitive programming, stock analysis, and exploring the quant field.  
+- 🌱 I’m currently Mechanics, Linear Algebra, and Probability & Statistics and C++
+- 💞️ I’m looking to collaborate on Python and C++ projects, especially related to data analysis and algorithms.  
+- 📫 How to reach me: sanjayraghav201@gmail.com  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I watch a lotta movies.
